@@ -48,6 +48,10 @@ RIGHT JOIN працює аналогічно LEFT JOIN, але "з точніс�
 <img width="306" height="252" alt="image" src="https://github.com/user-attachments/assets/a8165734-5cd2-40a6-9ac3-ee7e097adb49" />
 <img width="285" height="166" alt="image" src="https://github.com/user-attachments/assets/bfa94fa6-0d93-419b-a66c-7dc56cd051f2" />
 <br>
+<img width="293" height="263" alt="image" src="https://github.com/user-attachments/assets/e460303b-05c3-4e33-9088-18bf977ca35c" />
+<img width="283" height="167" alt="image" src="https://github.com/user-attachments/assets/19f206d6-2b2d-4b8e-8f95-d5432e6813cf" />
+<br>
+
 
 
 
