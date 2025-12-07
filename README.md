@@ -38,4 +38,9 @@
 - якщо є "висячі" записи (наприклад, у order_details є order_id, якого немає в таблиці orders), то при INNER JOIN ці рядки відкидаються, а при LEFT JOIN вони залишаються з NULL у полях приєднаної таблиці, тому кількість рядків зростає.
 
 RIGHT JOIN працює аналогічно LEFT JOIN, але "з точністю навпаки": гарантовано зберігаються всі рядки з правої таблиці, а для відсутніх відповідників у лівій таблиці підставляються NULL.
+<br>
+<img width="512" height="239" alt="image" src="https://github.com/user-attachments/assets/3950d044-c0c5-4096-bfd7-90273db3d3dc" />
+<img width="1039" height="22" alt="image" src="https://github.com/user-attachments/assets/c71db813-4afb-4042-91ed-ca55e8e51d35" />
+<br>
+
 
