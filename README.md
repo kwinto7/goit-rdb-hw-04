@@ -42,5 +42,11 @@ RIGHT JOIN працює аналогічно LEFT JOIN, але "з точніс�
 <img width="512" height="239" alt="image" src="https://github.com/user-attachments/assets/3950d044-c0c5-4096-bfd7-90273db3d3dc" />
 <img width="1039" height="22" alt="image" src="https://github.com/user-attachments/assets/c71db813-4afb-4042-91ed-ca55e8e51d35" />
 <br>
+<img width="299" height="223" alt="image" src="https://github.com/user-attachments/assets/e68dc5a9-9d9f-416c-9b23-f8fd07fa94ac" />
+<img width="285" height="173" alt="image" src="https://github.com/user-attachments/assets/17db070d-c302-4fd9-ac68-bdedb84abaa8" />
+<br>
+
+
+
 
 
